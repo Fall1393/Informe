@@ -1,0 +1,1307 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.3)  23 APR 2020 15:07
+entering extended mode
+**"./T2-Actividad 1-Araujo Luviano Luis.tex"
+("T2-Actividad 1-Araujo Luviano Luis.tex"
+LaTeX2e <2019-10-01> patch level 1
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2019/08/27 v1.4j Standard LaTeX document class
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo"
+File: bk11.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/10/15 3.35 The Babel package
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2019/10/15 3.35 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
+ish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/10/15 3.35 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count90
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count91
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) ("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
+y"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip48
+\c@subfigure=\count93
+\c@lofdepth=\count94
+\c@subtable=\count95
+\c@lotdepth=\count96
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.cfg")
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.st
+y"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip51
+\cftbeforetoctitleskip=\skip52
+\cftaftertoctitleskip=\skip53
+\cftbeforepartskip=\skip54
+\cftpartnumwidth=\skip55
+\cftpartindent=\skip56
+\cftbeforechapskip=\skip57
+\cftchapindent=\skip58
+\cftchapnumwidth=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
+\cftbeforesubfigskip=\skip85
+\cftsubfigindent=\skip86
+\cftsubfignumwidth=\skip87
+\cftbeforesubtabskip=\skip88
+\cftsubtabindent=\skip89
+\cftsubtabnumwidth=\skip90
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen108
+\WF@size=\dimen109
+\c@WF@wrappedlines=\count97
+\WF@box=\box27
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip91
+\multirow@cntb=\count98
+\multirow@dima=\skip92
+\bigstrutjot=\dimen110
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
+y"
+Package: longtable 2019/02/06 v4.12 Multi-page Table package (DPC)
+\LTleft=\skip93
+\LTright=\skip94
+\LTpre=\skip95
+\LTpost=\skip96
+\LTchunksize=\count99
+\LTcapwidth=\dimen111
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count100
+\LT@rows=\count101
+\c@LT@tables=\count102
+\c@LT@chunks=\count103
+\LT@p@ftn=\toks20
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) ("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen112
+\ar@mcellbox=\box32
+\extrarowheight=\dimen113
+\NC@list=\toks21
+\extratabsurround=\skip97
+\backup@length=\skip98
+\ar@cellbox=\box33
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box34
+\beforetitleunit=\skip99
+\aftertitleunit=\skip100
+\ttl@plus=\dimen114
+\ttl@minus=\dimen115
+\ttl@toksa=\toks22
+\titlewidth=\dimen116
+\titlewidthlast=\dimen117
+\titlewidthfirst=\dimen118
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip101
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen119
+))
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen120
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count104
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count105
+\leftroot@=\count106
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count107
+\DOTSCASE@=\count108
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box35
+\strutbox@=\box36
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
+\dotsspace@=\muskip10
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
+\tag@help=\toks25
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
+\andhelp@=\toks26
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks27
+\multlinegap=\skip102
+\multlinetaggap=\skip103
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+) ("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\upgreek.sty"
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cancel\cancel.sty"
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/genmisc\mathdots
+.sty"
+Package: mathdots 2004/07/02 version 0.6.
+\MD@unit=\dimen128
+LaTeX Info: Redefining \ddots on input line 120.
+LaTeX Info: Redefining \vdots on input line 122.
+
+
+Package Mathdots Warning: Redefining amsmath commands \dddot and \ddddot.
+
+LaTeX Info: Redefining \dddot on input line 145.
+LaTeX Info: Redefining \ddddot on input line 145.
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\mathrsfs.
+sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\stackrel.
+sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.s
+ty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/10/24 v1.0a TeX engine tests
+)))
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) ("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count116
+\float@exts=\toks29
+\float@box=\box37
+\@float@everytoks=\toks30
+\@floatcapt=\box38
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2019/09/01 v3.3d Customizing captions (AR)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2019/09/01 v1.8d caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen129
+\captionmargin@=\dimen130
+\captionwidth=\dimen131
+\caption@tempdima=\dimen132
+\caption@indent=\dimen133
+\caption@parindent=\dimen134
+\caption@hangindent=\dimen135
+)
+\c@caption@flags=\count117
+\c@ContinuedFloat=\count118
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption.
+sty"
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+\@float@every@table=\toks31
+ ("T2-Actividad 1-Araujo Luviano Luis.aux"
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+)
+\openout1 = `"T2-Actividad 1-Araujo Luviano Luis.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen136
+\scratchbox=\box39
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen137
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks33
+)
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Overfull \hbox (14.22636pt too wide) in paragraph at lines 91--91
+ [][] 
+ []
+
+[1
+
+
+{C:/Users/luis1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 138
+.
+
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 138
+.
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
+8.
+("C:\Users\luis1\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\ursfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1] [2
+
+] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+[4
+
+] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+[2
+
+] ("T2-Actividad 1-Araujo Luviano Luis.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [3])
+\tf@toc=\write3
+\openout3 = `"T2-Actividad 1-Araujo Luviano Luis.toc"'.
+
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
+ [4]
+("T2-Actividad 1-Araujo Luviano Luis.lof"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [5
+
+])
+\tf@lof=\write4
+\openout4 = `"T2-Actividad 1-Araujo Luviano Luis.lof"'.
+
+LaTeX Info: Redefining \. on input line 194.
+LaTeX Info: Redefining \% on input line 194.
+ [6]
+("T2-Actividad 1-Araujo Luviano Luis.lot"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `"T2-Actividad 1-Araujo Luviano Luis.lot"'.
+
+ [7
+
+]
+Cap\'{\i }tulo 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+[8
+
+]
+Cap\'{\i }tulo 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+[9
+
+]
+Cap\'{\i }tulo 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+[10
+
+]
+Cap\'{\i }tulo 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[11
+
+]
+Cap\'{\i }tulo 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+<./Imagenes/1.jpg, id=62, 1371.1225pt x 770.88pt>
+File: ./Imagenes/1.jpg Graphic file (type jpg)
+<use ./Imagenes/1.jpg>
+Package pdftex.def Info: ./Imagenes/1.jpg  used on input line 275.
+(pdftex.def)             Requested size: 441.01772pt x 247.94525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--280
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[12
+
+ <./Imagenes/1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+<./Imagenes/2.png, id=66, 1371.1225pt x 770.88pt>
+File: ./Imagenes/2.png Graphic file (type png)
+<use ./Imagenes/2.png>
+Package pdftex.def Info: ./Imagenes/2.png  used on input line 288.
+(pdftex.def)             Requested size: 441.01772pt x 247.94525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--296
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
+
+ []
+
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+[13 <./Imagenes/2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 305--306
+
+ []
+
+<./Imagenes/3.png, id=71, 1371.1225pt x 770.88pt>
+File: ./Imagenes/3.png Graphic file (type png)
+<use ./Imagenes/3.png>
+Package pdftex.def Info: ./Imagenes/3.png  used on input line 309.
+(pdftex.def)             Requested size: 441.01772pt x 247.94525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+LaTeX Info: Redefining \. on input line 327.
+LaTeX Info: Redefining \% on input line 327.
+[14 <./Imagenes/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 328--330
+
+ []
+
+<./Imagenes/4.png, id=75, 1371.1225pt x 770.88pt>
+File: ./Imagenes/4.png Graphic file (type png)
+<use ./Imagenes/4.png>
+Package pdftex.def Info: ./Imagenes/4.png  used on input line 334.
+(pdftex.def)             Requested size: 441.01772pt x 247.94525pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--346
+
+ []
+
+LaTeX Info: Redefining \. on input line 346.
+LaTeX Info: Redefining \% on input line 346.
+[15 <./Imagenes/4.png>]
+LaTeX Info: Redefining \. on input line 356.
+LaTeX Info: Redefining \% on input line 356.
+ [16]
+Cap\'{\i }tulo 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+<./Imagenes/8.png, id=82, 536.0025pt x 232.87pt>
+File: ./Imagenes/8.png Graphic file (type png)
+<use ./Imagenes/8.png>
+Package pdftex.def Info: ./Imagenes/8.png  used on input line 367.
+(pdftex.def)             Requested size: 441.01772pt x 191.60132pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
+
+ []
+
+[17
+
+ <./Imagenes/8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 378--379
+
+ []
+
+<./Imagenes/9.png, id=86, 576.1525pt x 345.29pt>
+File: ./Imagenes/9.png Graphic file (type png)
+<use ./Imagenes/9.png>
+Package pdftex.def Info: ./Imagenes/9.png  used on input line 382.
+(pdftex.def)             Requested size: 441.01772pt x 264.31458pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
+
+ []
+
+<./Imagenes/10.png, id=87, 398.48875pt x 511.9125pt>
+File: ./Imagenes/10.png Graphic file (type png)
+<use ./Imagenes/10.png>
+Package pdftex.def Info: ./Imagenes/10.png  used on input line 391.
+(pdftex.def)             Requested size: 441.01772pt x 566.57364pt.
+LaTeX Info: Redefining \. on input line 394.
+LaTeX Info: Redefining \% on input line 394.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 18
+ []
+
+[18 <./Imagenes/9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+<./Imagenes/11.png, id=91, 587.19376pt x 313.17pt>
+File: ./Imagenes/11.png Graphic file (type png)
+<use ./Imagenes/11.png>
+Package pdftex.def Info: ./Imagenes/11.png  used on input line 400.
+(pdftex.def)             Requested size: 441.01772pt x 235.20663pt.
+LaTeX Info: Redefining \. on input line 402.
+LaTeX Info: Redefining \% on input line 402.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 19
+ []
+
+[19 <./Imagenes/10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+<./Imagenes/12.png, id=96, 553.06625pt x 536.0025pt>
+File: ./Imagenes/12.png Graphic file (type png)
+<use ./Imagenes/12.png>
+Package pdftex.def Info: ./Imagenes/12.png  used on input line 418.
+(pdftex.def)             Requested size: 441.01772pt x 427.4122pt.
+LaTeX Info: Redefining \. on input line 421.
+LaTeX Info: Redefining \% on input line 421.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 20
+ []
+
+[20 <./Imagenes/11.png>]
+<./Imagenes/13.png, id=100, 553.06625pt x 232.87pt>
+File: ./Imagenes/13.png Graphic file (type png)
+<use ./Imagenes/13.png>
+Package pdftex.def Info: ./Imagenes/13.png  used on input line 424.
+(pdftex.def)             Requested size: 441.01772pt x 185.69217pt.
+LaTeX Info: Redefining \. on input line 427.
+LaTeX Info: Redefining \% on input line 427.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 21
+ []
+
+[21 <./Imagenes/12.png>]
+<./Imagenes/14.png, id=104, 556.0775pt x 572.1375pt>
+File: ./Imagenes/14.png Graphic file (type png)
+<use ./Imagenes/14.png>
+Package pdftex.def Info: ./Imagenes/14.png  used on input line 430.
+(pdftex.def)             Requested size: 441.01772pt x 453.7646pt.
+LaTeX Info: Redefining \. on input line 433.
+LaTeX Info: Redefining \% on input line 433.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 22
+ []
+
+[22 <./Imagenes/13.png>]
+<./Imagenes/15.png, id=108, 282.05376pt x 423.5825pt>
+File: ./Imagenes/15.png Graphic file (type png)
+<use ./Imagenes/15.png>
+Package pdftex.def Info: ./Imagenes/15.png  used on input line 436.
+(pdftex.def)             Requested size: 441.01772pt x 662.35664pt.
+LaTeX Info: Redefining \. on input line 439.
+LaTeX Info: Redefining \% on input line 439.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 23
+ []
+
+[23 <./Imagenes/14.png>]
+Overfull \vbox (78.30244pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 439.
+LaTeX Info: Redefining \% on input line 439.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 24
+ []
+
+[24 <./Imagenes/15.png>]
+<./Imagenes/16.png, id=117, 407.5225pt x 582.175pt>
+File: ./Imagenes/16.png Graphic file (type png)
+<use ./Imagenes/16.png>
+Package pdftex.def Info: ./Imagenes/16.png  used on input line 442.
+(pdftex.def)             Requested size: 441.01772pt x 630.05437pt.
+
+Overfull \vbox (46.00017pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 445.
+LaTeX Info: Redefining \% on input line 445.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 25
+ []
+
+[25 <./Imagenes/16.png>]
+<./Imagenes/17.png, id=123, 414.54875pt x 602.25pt>
+File: ./Imagenes/17.png Graphic file (type png)
+<use ./Imagenes/17.png>
+Package pdftex.def Info: ./Imagenes/17.png  used on input line 448.
+(pdftex.def)             Requested size: 441.01772pt x 640.7253pt.
+
+Overfull \vbox (56.6711pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 451.
+LaTeX Info: Redefining \% on input line 451.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 26
+ []
+
+[26 <./Imagenes/17.png>]
+<./Imagenes/18.png, id=128, 417.56pt x 593.21625pt>
+File: ./Imagenes/18.png Graphic file (type png)
+<use ./Imagenes/18.png>
+Package pdftex.def Info: ./Imagenes/18.png  used on input line 454.
+(pdftex.def)             Requested size: 441.01772pt x 626.5795pt.
+
+Overfull \vbox (42.5253pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 457.
+LaTeX Info: Redefining \% on input line 457.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 27
+ []
+
+[27 <./Imagenes/18.png>]
+<./Imagenes/19.png, id=133, 405.515pt x 554.07pt>
+File: ./Imagenes/19.png Graphic file (type png)
+<use ./Imagenes/19.png>
+Package pdftex.def Info: ./Imagenes/19.png  used on input line 460.
+(pdftex.def)             Requested size: 441.01772pt x 602.597pt.
+
+Overfull \vbox (18.5428pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 463.
+LaTeX Info: Redefining \% on input line 463.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 28
+ []
+
+[28 <./Imagenes/19.png>]
+<./Imagenes/20.png, id=138, 420.57124pt x 551.05875pt>
+File: ./Imagenes/20.png Graphic file (type png)
+<use ./Imagenes/20.png>
+Package pdftex.def Info: ./Imagenes/20.png  used on input line 466.
+(pdftex.def)             Requested size: 441.01772pt x 577.85516pt.
+<./Imagenes/21.png, id=139, 429.605pt x 575.14874pt>
+File: ./Imagenes/21.png Graphic file (type png)
+<use ./Imagenes/21.png>
+Package pdftex.def Info: ./Imagenes/21.png  used on input line 472.
+(pdftex.def)             Requested size: 441.01772pt x 590.43521pt.
+LaTeX Info: Redefining \. on input line 475.
+LaTeX Info: Redefining \% on input line 475.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 29
+ []
+
+[29 <./Imagenes/20.png>]
+Overfull \vbox (6.38101pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 475.
+LaTeX Info: Redefining \% on input line 475.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 30
+ []
+
+[30 <./Imagenes/21.png>]
+<./Imagenes/22.png, id=148, 432.61626pt x 334.24875pt>
+File: ./Imagenes/22.png Graphic file (type png)
+<use ./Imagenes/22.png>
+Package pdftex.def Info: ./Imagenes/22.png  used on input line 478.
+(pdftex.def)             Requested size: 441.01772pt x 340.7558pt.
+<./Imagenes/23.png, id=149, 432.61626pt x 180.675pt>
+File: ./Imagenes/23.png Graphic file (type png)
+<use ./Imagenes/23.png>
+Package pdftex.def Info: ./Imagenes/23.png  used on input line 484.
+(pdftex.def)             Requested size: 441.01772pt x 184.1923pt.
+<./Imagenes/24.png, id=150, 426.59375pt x 177.66376pt>
+File: ./Imagenes/24.png Graphic file (type png)
+<use ./Imagenes/24.png>
+Package pdftex.def Info: ./Imagenes/24.png  used on input line 490.
+(pdftex.def)             Requested size: 441.01772pt x 183.68156pt.
+LaTeX Info: Redefining \. on input line 493.
+LaTeX Info: Redefining \% on input line 493.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 31
+ []
+
+[31 <./Imagenes/22.png> <./Imagenes/23.png>]
+<./Imagenes/25.png, id=157, 433.62pt x 186.6975pt>
+File: ./Imagenes/25.png Graphic file (type png)
+<use ./Imagenes/25.png>
+Package pdftex.def Info: ./Imagenes/25.png  used on input line 496.
+(pdftex.def)             Requested size: 441.01772pt x 189.89336pt.
+<./Imagenes/26.png, id=158, 433.62pt x 183.68625pt>
+File: ./Imagenes/26.png Graphic file (type png)
+<use ./Imagenes/26.png>
+Package pdftex.def Info: ./Imagenes/26.png  used on input line 502.
+(pdftex.def)             Requested size: 441.01772pt x 186.83054pt.
+LaTeX Info: Redefining \. on input line 505.
+LaTeX Info: Redefining \% on input line 505.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 32
+ []
+
+[32 <./Imagenes/24.png> <./Imagenes/25.png>]
+<./Imagenes/27.png, id=164, 439.6425pt x 189.70876pt>
+File: ./Imagenes/27.png Graphic file (type png)
+<use ./Imagenes/27.png>
+Package pdftex.def Info: ./Imagenes/27.png  used on input line 508.
+(pdftex.def)             Requested size: 441.01772pt x 190.30748pt.
+<./Imagenes/28.png, id=165, 430.60875pt x 183.68625pt>
+File: ./Imagenes/28.png Graphic file (type png)
+<use ./Imagenes/28.png>
+Package pdftex.def Info: ./Imagenes/28.png  used on input line 514.
+(pdftex.def)             Requested size: 441.01772pt x 188.13104pt.
+LaTeX Info: Redefining \. on input line 517.
+LaTeX Info: Redefining \% on input line 517.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 33
+ []
+
+[33 <./Imagenes/26.png> <./Imagenes/27.png>]
+<./Imagenes/29.png, id=171, 457.71pt x 186.6975pt>
+File: ./Imagenes/29.png Graphic file (type png)
+<use ./Imagenes/29.png>
+Package pdftex.def Info: ./Imagenes/29.png  used on input line 520.
+(pdftex.def)             Requested size: 441.01772pt x 179.89702pt.
+<./Imagenes/30.png, id=172, 430.60875pt x 183.68625pt>
+File: ./Imagenes/30.png Graphic file (type png)
+<use ./Imagenes/30.png>
+Package pdftex.def Info: ./Imagenes/30.png  used on input line 526.
+(pdftex.def)             Requested size: 441.01772pt x 188.13104pt.
+LaTeX Info: Redefining \. on input line 529.
+LaTeX Info: Redefining \% on input line 529.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 34
+ []
+
+[34 <./Imagenes/28.png> <./Imagenes/29.png>]
+<./Imagenes/31.png, id=178, 436.63126pt x 180.675pt>
+File: ./Imagenes/31.png Graphic file (type png)
+<use ./Imagenes/31.png>
+Package pdftex.def Info: ./Imagenes/31.png  used on input line 532.
+(pdftex.def)             Requested size: 441.01772pt x 182.49132pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 537--538
+
+ []
+
+<./Imagenes/32.png, id=179, 475.7775pt x 367.3725pt>
+File: ./Imagenes/32.png Graphic file (type png)
+<use ./Imagenes/32.png>
+Package pdftex.def Info: ./Imagenes/32.png  used on input line 541.
+(pdftex.def)             Requested size: 441.01772pt x 340.54855pt.
+LaTeX Info: Redefining \. on input line 544.
+LaTeX Info: Redefining \% on input line 544.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 35
+ []
+
+[35 <./Imagenes/30.png> <./Imagenes/31.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--550
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+LaTeX Info: Redefining \. on input line 554.
+LaTeX Info: Redefining \% on input line 554.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 36
+ []
+
+[36 <./Imagenes/32.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
+
+ []
+
+LaTeX Info: Redefining \. on input line 569.
+LaTeX Info: Redefining \% on input line 569.
+
+Overfull \hbox (29.68068pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10.95 CAP[]ITULO 6.  PROCEDIMIENTO Y DESCRIPCI[]ON DE LAS ACTIVID
+ADES REALIZADAS \OT1/cmr/m/n/10.95 37
+ []
+
+[37]
+Cap\'{\i }tulo 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--573
+
+ []
+
+<./Imagenes/33.png, id=193, 430.60875pt x 289.08pt>
+File: ./Imagenes/33.png Graphic file (type png)
+<use ./Imagenes/33.png>
+Package pdftex.def Info: ./Imagenes/33.png  used on input line 576.
+(pdftex.def)             Requested size: 441.01772pt x 296.07512pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+<./Imagenes/34.png, id=194, 412.54124pt x 249.93375pt>
+File: ./Imagenes/34.png Graphic file (type png)
+<use ./Imagenes/34.png>
+Package pdftex.def Info: ./Imagenes/34.png  used on input line 584.
+(pdftex.def)             Requested size: 441.01772pt x 267.19002pt.
+[38
+
+ <./Imagenes/33.png>]
+<./Imagenes/35.png, id=199, 298.11375pt x 258.9675pt>
+File: ./Imagenes/35.png Graphic file (type png)
+<use ./Imagenes/35.png>
+Package pdftex.def Info: ./Imagenes/35.png  used on input line 593.
+(pdftex.def)             Requested size: 441.01772pt x 383.12756pt.
+LaTeX Info: Redefining \. on input line 596.
+LaTeX Info: Redefining \% on input line 596.
+ [39 <./Imagenes/34.png>]
+<./Imagenes/36.png, id=204, 316.18124pt x 283.0575pt>
+File: ./Imagenes/36.png Graphic file (type png)
+<use ./Imagenes/36.png>
+Package pdftex.def Info: ./Imagenes/36.png  used on input line 599.
+(pdftex.def)             Requested size: 441.01772pt x 394.84383pt.
+LaTeX Info: Redefining \. on input line 602.
+LaTeX Info: Redefining \% on input line 602.
+ [40 <./Imagenes/35.png>]
+<./Imagenes/37.png, id=209, 325.215pt x 283.0575pt>
+File: ./Imagenes/37.png Graphic file (type png)
+<use ./Imagenes/37.png>
+Package pdftex.def Info: ./Imagenes/37.png  used on input line 605.
+(pdftex.def)             Requested size: 441.01772pt x 383.87762pt.
+LaTeX Info: Redefining \. on input line 608.
+LaTeX Info: Redefining \% on input line 608.
+
+[41 <./Imagenes/36.png>]
+<./Imagenes/38.png, id=214, 340.27126pt x 261.97874pt>
+File: ./Imagenes/38.png Graphic file (type png)
+<use ./Imagenes/38.png>
+Package pdftex.def Info: ./Imagenes/38.png  used on input line 611.
+(pdftex.def)             Requested size: 441.01772pt x 339.56497pt.
+LaTeX Info: Redefining \. on input line 614.
+LaTeX Info: Redefining \% on input line 614.
+ [42 <./Imagenes/37.png>]
+<./Imagenes/39.png, id=219, 340.27126pt x 304.13625pt>
+File: ./Imagenes/39.png Graphic file (type png)
+<use ./Imagenes/39.png>
+Package pdftex.def Info: ./Imagenes/39.png  used on input line 617.
+(pdftex.def)             Requested size: 441.01772pt x 394.2076pt.
+LaTeX Info: Redefining \. on input line 620.
+LaTeX Info: Redefining \% on input line 620.
+ [43 <./Imagenes/38.png>]
+<./Imagenes/40.png, id=225, 331.2375pt x 252.945pt>
+File: ./Imagenes/40.png Graphic file (type png)
+<use ./Imagenes/40.png>
+Package pdftex.def Info: ./Imagenes/40.png  used on input line 623.
+(pdftex.def)             Requested size: 441.01772pt x 336.79472pt.
+LaTeX Info: Redefining \. on input line 626.
+LaTeX Info: Redefining \% on input line 626.
+
+[44 <./Imagenes/39.png>]
+<./Imagenes/41.png, id=230, 370.38374pt x 319.1925pt>
+File: ./Imagenes/41.png Graphic file (type png)
+<use ./Imagenes/41.png>
+Package pdftex.def Info: ./Imagenes/41.png  used on input line 629.
+(pdftex.def)             Requested size: 441.01772pt x 380.06783pt.
+LaTeX Info: Redefining \. on input line 632.
+LaTeX Info: Redefining \% on input line 632.
+ [45 <./Imagenes/40.png>]
+<./Imagenes/42.png, id=235, 313.17pt x 271.0125pt>
+File: ./Imagenes/42.png Graphic file (type png)
+<use ./Imagenes/42.png>
+Package pdftex.def Info: ./Imagenes/42.png  used on input line 635.
+(pdftex.def)             Requested size: 441.01772pt x 381.6645pt.
+LaTeX Info: Redefining \. on input line 638.
+LaTeX Info: Redefining \% on input line 638.
+ [46 <./Imagenes/41.png>]
+<./Imagenes/43.png, id=240, 331.2375pt x 298.11375pt>
+File: ./Imagenes/43.png Graphic file (type png)
+<use ./Imagenes/43.png>
+Package pdftex.def Info: ./Imagenes/43.png  used on input line 641.
+(pdftex.def)             Requested size: 441.01772pt x 396.93665pt.
+LaTeX Info: Redefining \. on input line 644.
+LaTeX Info: Redefining \% on input line 644.
+
+[47 <./Imagenes/42.png>]
+<./Imagenes/44.png, id=245, 325.215pt x 283.0575pt>
+File: ./Imagenes/44.png Graphic file (type png)
+<use ./Imagenes/44.png>
+Package pdftex.def Info: ./Imagenes/44.png  used on input line 647.
+(pdftex.def)             Requested size: 441.01772pt x 383.87762pt.
+LaTeX Info: Redefining \. on input line 651.
+LaTeX Info: Redefining \% on input line 651.
+ [48 <./Imagenes/43.png>]
+LaTeX Info: Redefining \. on input line 674.
+LaTeX Info: Redefining \% on input line 674.
+ [49 <./Imagenes/44.png>]
+Cap\'{\i }tulo 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+
+ []
+
+[50
+
+] ("T2-Actividad 1-Araujo Luviano Luis.bbl") [51
+
+
+]
+("T2-Actividad 1-Araujo Luviano Luis.aux"
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 40 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 6736 strings out of 492449
+ 98921 string characters out of 3119903
+ 177612 words of memory out of 3000000
+ 10911 multiletter control sequences out of 15000+200000
+ 13412 words of font info for 50 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,6n,42p,811b,1516s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/luis1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb><C:/Users/luis1/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/luis1/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/luis1/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lui
+s1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+<C:/Users/luis1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti10.pfb><C:/Users/luis1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmti8.pfb>
+Output written on "T2-Actividad 1-Araujo Luviano Luis.pdf" (57 pages, 3401882 b
+ytes).
+PDF statistics:
+ 286 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+

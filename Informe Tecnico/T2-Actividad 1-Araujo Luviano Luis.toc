@@ -1,0 +1,43 @@
+\babel@toc {spanish}{}
+\hfill \textbf {Página} \par 
+\vspace {-2mm} \hspace {-7.5mm} \hrule \par 
+\contentsline {chapter}{Resumen}{1}% 
+\contentsline {chapter}{Abstract}{2}% 
+\contentsline {chapter}{Lista de figuras}{5}% 
+\contentsline {chapter}{Lista de tablas}{7}% 
+\contentsline {chapter}{\numberline {1}Introducción}{8}% 
+\contentsline {chapter}{\numberline {2}Justificación}{9}% 
+\contentsline {chapter}{\numberline {3}Objetivos}{10}% 
+\contentsline {section}{\numberline {3.1}Objetivo general}{10}% 
+\contentsline {section}{\numberline {3.2}Objetivos espec\'{\i }ficos}{10}% 
+\contentsline {chapter}{\numberline {4}Problemas a resolver}{11}% 
+\contentsline {chapter}{\numberline {5}Fundamento teórico}{12}% 
+\contentsline {section}{\numberline {5.1}Metodología Scrum}{13}% 
+\contentsline {section}{\numberline {5.2}Metodología RUP}{13}% 
+\contentsline {section}{\numberline {5.3}Metodología Kanban}{14}% 
+\contentsline {section}{\numberline {5.4}Metodología Agile Inception}{15}% 
+\contentsline {section}{\numberline {5.5}Design Sprint}{15}% 
+\contentsline {chapter}{\numberline {6}Procedimiento y descripción de las actividades realizadas}{17}% 
+\contentsline {section}{\numberline {6.1}Planificación}{17}% 
+\contentsline {subsection}{\numberline {6.1.1}Fase De Análisis}{17}% 
+\contentsline {subsection}{\numberline {6.1.2}Propósito}{17}% 
+\contentsline {subsection}{\numberline {6.1.3}Alcances}{18}% 
+\contentsline {subsection}{\numberline {6.1.4}Declaración del problema}{18}% 
+\contentsline {subsection}{\numberline {6.1.5}Declaración de posición del producto tabla 3}{18}% 
+\contentsline {subsection}{\numberline {6.1.6}Resumen de usuarios tabla 4}{20}% 
+\contentsline {subsection}{\numberline {6.1.7}Resumen del producto}{20}% 
+\contentsline {subsection}{\numberline {6.1.8}Funciones del sistema}{20}% 
+\contentsline {subsection}{\numberline {6.1.9}Supuestos y dependencias}{20}% 
+\contentsline {subsection}{\numberline {6.1.10}Diagrama de casos de uso}{20}% 
+\contentsline {subsection}{\numberline {6.1.11}Diagrama de base de datos}{35}% 
+\contentsline {section}{\numberline {6.2}Diseño}{36}% 
+\contentsline {section}{\numberline {6.3}Codificación}{36}% 
+\contentsline {section}{\numberline {6.4}Pruebas}{37}% 
+\contentsline {section}{\numberline {6.5}Lanzamiento}{37}% 
+\contentsline {chapter}{\numberline {7}Resultados, planos, gráficas, prototipos y programas}{38}% 
+\contentsline {subsection}{\numberline {7.0.1} Resultados}{38}% 
+\contentsline {subsection}{\numberline {7.0.2}Prototipo}{40}% 
+\contentsline {chapter}{\numberline {8}Conclusiones y recomendaciones}{50}% 
+\contentsline {section}{\numberline {8.1}Conclusiones}{50}% 
+\contentsline {section}{\numberline {8.2}Recomendaciones}{50}% 
+\contentsline {chapter}{Referencias}{51}% 
